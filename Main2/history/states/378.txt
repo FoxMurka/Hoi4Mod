@@ -2,15 +2,15 @@
 state={
 	id=378
 	name="STATE_378"
-	manpower = 2154224
+	manpower = 2179224
 	
-	state_category = large_city
+	state_category = city
 	resources={
-		aluminium=0
-		chromium=0
+		aluminium=2
+		chromium=1
 		oil=0
-		rubber=1
-		steel=1
+		rubber=0
+		steel=2
 		tungsten=0
 	}
 
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		11216 11217 11218 11219 11220 11221 11222 11223 11224 11225 11226 11227 11228 11229 11230 11231 11232 11233 11234 11235 11236 11237 11238 11239 11240 11241 11242 11243 11244 11245 11246 
+		9854 9855 9856 9857 9858 9859 9860 9861 9862 9863 9864 9865 9866 9867 9868 9869 9870 9871 9872 9873 9874 9875 9876 9877 9878 9879 
 	}
 	local_supplies=0.0 
 }

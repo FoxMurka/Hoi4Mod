@@ -1,0 +1,35 @@
+
+state={
+	id=757
+	name="STATE_757"
+	manpower = 2672380
+	
+	state_category = city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=5
+		rubber=0
+		steel=3
+		tungsten=1
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		
+	}
+
+	provinces={
+		19711 19712 19713 19714 19715 19716 19717 19718 19719 19720 19721 19722 19723 19724 19725 19726 19727 19728 19729 19730 19731 19732 19733 19734 19735 19736 19737 19738 19739 19740 19741 19742 19743 
+	}
+	local_supplies=0.0 
+}

@@ -2,28 +2,28 @@
 state={
 	id=559
 	name="STATE_559"
-	manpower = 609947
+	manpower = 1697448
 	
-	state_category = pastoral
+	state_category = large_town
 	resources={
-		aluminium=1
+		aluminium=0
 		chromium=0
-		oil=0
+		oil=1
 		rubber=0
-		steel=2
-		tungsten=1
+		steel=1
+		tungsten=0
 	}
 
 	history={
 		
 		
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			
 			arms_factory = 0
 			industrial_complex = 0
 			
-			16788 = {
+			14489 = {
 				naval_base = 1
 			}
 			
@@ -32,7 +32,7 @@ state={
 	}
 
 	provinces={
-		16781 16782 16783 16784 16785 16786 16787 16788 16789 16790 16791 
+		14472 14473 14474 14475 14476 14477 14478 14479 14480 14481 14482 14483 14484 14485 14486 14487 14488 14489 14490 14491 
 	}
 	local_supplies=0.0 
 }

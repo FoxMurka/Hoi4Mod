@@ -2,16 +2,16 @@
 state={
 	id=281
 	name="STATE_281"
-	manpower = 2573140
+	manpower = 975548
 	
-	state_category = large_city
+	state_category = rural
 	resources={
 		aluminium=0
 		chromium=0
 		oil=0
-		rubber=0
-		steel=1
-		tungsten=1
+		rubber=3
+		steel=0
+		tungsten=0
 	}
 
 	history={
@@ -20,8 +20,8 @@ state={
 		buildings = {
 			infrastructure = 3
 			
-			arms_factory = 1
-			industrial_complex = 0
+			arms_factory = 0
+			industrial_complex = 1
 			
 			
 		}
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		8145 8146 8147 8148 8149 8150 8151 8152 8153 8154 8155 8156 8157 8158 8159 8160 8161 8162 8163 8164 8165 8166 8167 8168 8169 8170 8171 8172 8173 8174 8175 8176 8177 8178 8179 8180 8181 8182 
+		7527 7528 7529 7530 7531 7532 7533 7534 7535 7536 7537 7538 
 	}
 	local_supplies=0.0 
 }

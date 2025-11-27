@@ -2,15 +2,15 @@
 state={
 	id=463
 	name="STATE_463"
-	manpower = 2698413
+	manpower = 1189437
 	
-	state_category = metropolis
+	state_category = town
 	resources={
-		aluminium=1
-		chromium=7
-		oil=3
-		rubber=1
-		steel=2
+		aluminium=0
+		chromium=1
+		oil=2
+		rubber=0
+		steel=1
 		tungsten=0
 	}
 
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		13803 13804 13805 13806 13807 13808 13809 13810 13811 13812 13813 13814 13815 13816 13817 13818 13819 13820 13821 13822 13823 13824 13825 13826 13827 13828 13829 13830 13831 13832 13833 13834 13835 13836 13837 13838 13839 13840 
+		11971 11972 11973 11974 11975 11976 11977 11978 11979 11980 11981 11982 11983 11984 
 	}
 	local_supplies=0.0 
 }

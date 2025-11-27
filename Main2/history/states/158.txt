@@ -2,16 +2,16 @@
 state={
 	id=158
 	name="STATE_158"
-	manpower = 1999654
+	manpower = 1437690
 	
-	state_category = city
+	state_category = town
 	resources={
-		aluminium=0
+		aluminium=1
 		chromium=0
-		oil=2
-		rubber=0
-		steel=1
-		tungsten=2
+		oil=1
+		rubber=4
+		steel=0
+		tungsten=0
 	}
 
 	history={
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		4518 4519 4520 4521 4522 4523 4524 4525 4526 4527 4528 4529 4530 4531 4532 4533 4534 4535 4536 4537 4538 4539 4540 4541 4542 4543 4544 4545 
+		4069 4070 4071 4072 4073 4074 4075 4076 4077 4078 4079 4080 4081 4082 4083 4084 4085 
 	}
 	local_supplies=0.0 
 }

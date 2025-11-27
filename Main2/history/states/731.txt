@@ -1,0 +1,38 @@
+
+state={
+	id=731
+	name="STATE_731"
+	manpower = 732133
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=2
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			18963 = {
+				naval_base = 1
+			}
+			
+		}
+		
+	}
+
+	provinces={
+		18962 18963 18964 18965 18966 18967 18968 18969 
+	}
+	local_supplies=0.0 
+}

@@ -2,25 +2,25 @@
 state={
 	id=326
 	name="STATE_326"
-	manpower = 1921237
+	manpower = 1734468
 	
-	state_category = large_town
+	state_category = town
 	resources={
 		aluminium=0
-		chromium=0
+		chromium=1
 		oil=0
 		rubber=0
 		steel=1
-		tungsten=1
+		tungsten=0
 	}
 
 	history={
 		
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			
-			arms_factory = 1
+			arms_factory = 0
 			industrial_complex = 0
 			
 			
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		9451 9452 9453 9454 9455 9456 9457 9458 9459 9460 9461 9462 9463 9464 9465 9466 9467 9468 9469 9470 9471 9472 9473 9474 9475 9476 9477 9478 9479 
+		8595 8596 8597 8598 8599 8600 8601 8602 8603 8604 8605 8606 8607 8608 8609 8610 8611 8612 8613 8614 8615 
 	}
 	local_supplies=0.0 
 }

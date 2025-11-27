@@ -2,15 +2,15 @@
 state={
 	id=307
 	name="STATE_307"
-	manpower = 1213438
+	manpower = 1095575
 	
-	state_category = town
+	state_category = rural
 	resources={
 		aluminium=0
 		chromium=0
-		oil=1
+		oil=0
 		rubber=0
-		steel=0
+		steel=1
 		tungsten=0
 	}
 
@@ -18,10 +18,10 @@ state={
 		
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			
-			arms_factory = 1
-			industrial_complex = 0
+			arms_factory = 0
+			industrial_complex = 1
 			
 			
 		}
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		8855 8856 8857 8858 8859 8860 8861 8862 8863 8864 8865 8866 8867 8868 8869 8870 8871 8872 
+		8091 8092 8093 8094 8095 8096 8097 8098 8099 8100 8101 8102 8103 
 	}
 	local_supplies=0.0 
 }

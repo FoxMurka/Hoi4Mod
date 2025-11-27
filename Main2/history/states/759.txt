@@ -1,0 +1,35 @@
+
+state={
+	id=759
+	name="STATE_759"
+	manpower = 3729250
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=0
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		
+	}
+
+	provinces={
+		19775 19776 19777 19778 19779 19780 19781 19782 19783 19784 19785 19786 19787 19788 19789 19790 19791 19792 19793 19794 19795 19796 19797 19798 19799 19800 19801 19802 19803 19804 19805 19806 19807 19808 19809 19810 19811 19812 19813 19814 19815 19816 19817 19818 
+	}
+	local_supplies=0.0 
+}

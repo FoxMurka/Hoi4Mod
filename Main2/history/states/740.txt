@@ -1,0 +1,38 @@
+
+state={
+	id=740
+	name="STATE_740"
+	manpower = 3431193
+	
+	state_category = metropolis
+	resources={
+		aluminium=2
+		chromium=0
+		oil=1
+		rubber=5
+		steel=2
+		tungsten=1
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			19208 = {
+				naval_base = 1
+			}
+			
+		}
+		
+	}
+
+	provinces={
+		19199 19200 19201 19202 19203 19204 19205 19206 19207 19208 19209 19210 19211 19212 19213 19214 19215 19216 19217 19218 19219 19220 19221 19222 19223 19224 19225 19226 19227 19228 19229 19230 19231 19232 19233 19234 19235 19236 19237 19238 
+	}
+	local_supplies=0.0 
+}

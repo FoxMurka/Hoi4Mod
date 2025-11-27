@@ -2,7 +2,7 @@
 state={
 	id=345
 	name="STATE_345"
-	manpower = 493021
+	manpower = 531310
 	
 	state_category = rural
 	resources={
@@ -11,17 +11,17 @@ state={
 		oil=0
 		rubber=0
 		steel=0
-		tungsten=1
+		tungsten=0
 	}
 
 	history={
 		
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			
 			arms_factory = 0
-			industrial_complex = 1
+			industrial_complex = 0
 			
 			
 		}
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		10087 10088 10089 10090 10091 10092 10093 
+		8984 8985 8986 8987 8988 8989 
 	}
 	local_supplies=0.0 
 }

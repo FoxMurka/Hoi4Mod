@@ -2,16 +2,16 @@
 state={
 	id=481
 	name="STATE_481"
-	manpower = 701254
+	manpower = 1940513
 	
-	state_category = rural
+	state_category = town
 	resources={
-		aluminium=0
+		aluminium=2
 		chromium=0
 		oil=0
 		rubber=0
-		steel=1
-		tungsten=0
+		steel=2
+		tungsten=1
 	}
 
 	history={
@@ -23,7 +23,7 @@ state={
 			arms_factory = 0
 			industrial_complex = 0
 			
-			14482 = {
+			12441 = {
 				naval_base = 1
 			}
 			
@@ -32,7 +32,7 @@ state={
 	}
 
 	provinces={
-		14474 14475 14476 14477 14478 14479 14480 14481 14482 14483 14484 
+		12424 12425 12426 12427 12428 12429 12430 12431 12432 12433 12434 12435 12436 12437 12438 12439 12440 12441 12442 12443 12444 12445 12446 12447 12448 12449 12450 12451 
 	}
 	local_supplies=0.0 
 }

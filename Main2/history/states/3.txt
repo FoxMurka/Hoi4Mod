@@ -2,37 +2,34 @@
 state={
 	id=3
 	name="STATE_3"
-	manpower = 4982056
+	manpower = 1709565
 	
-	state_category = megalopolis
+	state_category = rural
 	resources={
 		aluminium=1
-		chromium=0
-		oil=3
-		rubber=11
-		steel=4
-		tungsten=2
+		chromium=2
+		oil=1
+		rubber=0
+		steel=2
+		tungsten=0
 	}
 
 	history={
 		
 		
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			
-			arms_factory = 1
-			industrial_complex = 0
-			dockyard = 2
-			64 = {
-				naval_base = 1
-			}
+			arms_factory = 0
+			industrial_complex = 1
+			
 			
 		}
 		
 	}
 
 	provinces={
-		55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 
+		53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 
 	}
 	local_supplies=0.0 
 }

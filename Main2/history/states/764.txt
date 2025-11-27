@@ -1,0 +1,35 @@
+
+state={
+	id=764
+	name="STATE_764"
+	manpower = 2641453
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=5
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=1
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		
+	}
+
+	provinces={
+		19942 19943 19944 19945 19946 19947 19948 19949 19950 19951 19952 19953 19954 19955 19956 19957 19958 19959 19960 19961 19962 19963 19964 19965 19966 19967 19968 19969 19970 19971 19972 
+	}
+	local_supplies=0.0 
+}

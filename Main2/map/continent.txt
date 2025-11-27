@@ -1,7 +1,7 @@
 continents = {
-	Uisteopp
-	Philkeo
-	Aomp
+	Yedo
+	Old
+	Keinmae
 	
 	
 	#Vanilla continents kept in for compatibility. Removing them breaks a lot of references to them

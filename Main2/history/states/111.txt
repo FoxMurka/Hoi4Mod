@@ -2,13 +2,13 @@
 state={
 	id=111
 	name="STATE_111"
-	manpower = 741056
+	manpower = 1405179
 	
-	state_category = pastoral
+	state_category = town
 	resources={
 		aluminium=1
 		chromium=0
-		oil=2
+		oil=0
 		rubber=0
 		steel=1
 		tungsten=1
@@ -18,21 +18,18 @@ state={
 		
 		
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			
-			arms_factory = 1
+			arms_factory = 0
 			industrial_complex = 0
 			
-			3272 = {
-				naval_base = 1
-			}
 			
 		}
 		
 	}
 
 	provinces={
-		3263 3264 3265 3266 3267 3268 3269 3270 3271 3272 3273 3274 
+		2985 2986 2987 2988 2989 2990 2991 2992 2993 2994 2995 2996 2997 2998 2999 3000 3001 
 	}
 	local_supplies=0.0 
 }

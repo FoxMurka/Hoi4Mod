@@ -2,16 +2,16 @@
 state={
 	id=586
 	name="STATE_586"
-	manpower = 1448752
+	manpower = 1162
 	
 	state_category = pastoral
 	resources={
-		aluminium=4
+		aluminium=0
 		chromium=0
-		oil=6
+		oil=0
 		rubber=0
-		steel=7
-		tungsten=3
+		steel=0
+		tungsten=0
 	}
 
 	history={
@@ -23,13 +23,16 @@ state={
 			arms_factory = 0
 			industrial_complex = 0
 			
+			15212 = {
+				naval_base = 1
+			}
 			
 		}
 		
 	}
 
 	provinces={
-		17499 17500 17501 17502 17503 17504 17505 17506 17507 17508 17509 17510 17511 17512 17513 17514 17515 17516 17517 17518 17519 17520 17521 17522 17523 17524 17525 17526 
+		15212 
 	}
 	local_supplies=0.0 
 }
