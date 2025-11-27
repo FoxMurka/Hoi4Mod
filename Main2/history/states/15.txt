@@ -1,0 +1,38 @@
+
+state={
+	id=15
+	name="STATE_15"
+	manpower = 3284396
+	
+	state_category = metropolis
+	resources={
+		aluminium=0
+		chromium=9
+		oil=0
+		rubber=3
+		steel=3
+		tungsten=1
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			460 = {
+				naval_base = 1
+			}
+			
+		}
+		
+	}
+
+	provinces={
+		448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 
+	}
+	local_supplies=0.0 
+}

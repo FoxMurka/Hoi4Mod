@@ -1,0 +1,38 @@
+
+state={
+	id=578
+	name="STATE_578"
+	manpower = 145492
+	
+	state_category = pastoral
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			17326 = {
+				naval_base = 1
+			}
+			
+		}
+		
+	}
+
+	provinces={
+		17325 17326 
+	}
+	local_supplies=0.0 
+}

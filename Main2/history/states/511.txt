@@ -1,0 +1,35 @@
+
+state={
+	id=511
+	name="STATE_511"
+	manpower = 3336528
+	
+	state_category = metropolis
+	resources={
+		aluminium=2
+		chromium=0
+		oil=2
+		rubber=3
+		steel=3
+		tungsten=1
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		
+	}
+
+	provinces={
+		15329 15330 15331 15332 15333 15334 15335 15336 15337 15338 15339 15340 15341 15342 15343 15344 15345 15346 15347 15348 15349 15350 15351 15352 15353 15354 15355 15356 15357 15358 15359 15360 15361 15362 15363 15364 15365 15366 15367 15368 15369 15370 15371 15372 15373 15374 15375 15376 15377 15378 15379 
+	}
+	local_supplies=0.0 
+}

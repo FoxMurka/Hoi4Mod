@@ -1,0 +1,17 @@
+name="Main2"
+picture="thumbnail.png"
+version="v1"
+user_dir="Main2"
+replace_path="history/states"
+replace_path="map/strategicregions"
+replace_path="history/units"
+replace_path="common/ai_strategy"
+replace_path="events"
+replace_path="common/on_actions"
+tags={
+	"Gameplay"
+	"Historical"
+}
+supported_version="1.16.*"
+path="C:/Users/Professional/Documents/Paradox Interactive/Hearts of Iron IV/mod/Main2"
+remote_file_id="<ID>"

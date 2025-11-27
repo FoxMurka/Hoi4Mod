@@ -1,0 +1,38 @@
+
+state={
+	id=393
+	name="STATE_393"
+	manpower = 963003
+	
+	state_category = rural
+	resources={
+		aluminium=1
+		chromium=2
+		oil=0
+		rubber=4
+		steel=1
+		tungsten=0
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			11616 = {
+				naval_base = 1
+			}
+			
+		}
+		
+	}
+
+	provinces={
+		11614 11615 11616 11617 11618 11619 11620 11621 11622 11623 11624 11625 11626 11627 11628 
+	}
+	local_supplies=0.0 
+}

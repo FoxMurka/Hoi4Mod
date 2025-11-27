@@ -1,0 +1,35 @@
+
+state={
+	id=587
+	name="STATE_587"
+	manpower = 3593992
+	
+	state_category = megalopolis
+	resources={
+		aluminium=0
+		chromium=1
+		oil=1
+		rubber=0
+		steel=3
+		tungsten=2
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		
+	}
+
+	provinces={
+		17527 17528 17529 17530 17531 17532 17533 17534 17535 17536 17537 17538 17539 17540 17541 17542 17543 17544 17545 17546 17547 17548 17549 17550 17551 17552 17553 17554 17555 17556 17557 17558 17559 17560 17561 17562 17563 17564 17565 17566 17567 17568 17569 17570 17571 17572 17573 17574 17575 17576 17577 17578 
+	}
+	local_supplies=0.0 
+}

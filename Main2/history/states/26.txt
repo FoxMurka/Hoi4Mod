@@ -1,0 +1,35 @@
+
+state={
+	id=26
+	name="STATE_26"
+	manpower = 3399863
+	
+	state_category = megalopolis
+	resources={
+		aluminium=1
+		chromium=4
+		oil=2
+		rubber=1
+		steel=3
+		tungsten=0
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		
+	}
+
+	provinces={
+		791 792 793 794 795 796 797 798 799 800 801 802 803 804 805 806 807 808 809 810 811 812 813 814 815 816 817 818 819 820 821 822 823 824 825 826 827 828 829 830 831 832 833 834 835 836 837 838 839 840 
+	}
+	local_supplies=0.0 
+}

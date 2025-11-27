@@ -1,0 +1,35 @@
+
+state={
+	id=614
+	name="STATE_614"
+	manpower = 3306310
+	
+	state_category = megalopolis
+	resources={
+		aluminium=2
+		chromium=3
+		oil=1
+		rubber=7
+		steel=4
+		tungsten=0
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		
+	}
+
+	provinces={
+		18432 18433 18434 18435 18436 18437 18438 18439 18440 18441 18442 18443 18444 18445 18446 18447 18448 18449 18450 18451 18452 18453 18454 18455 18456 18457 18458 18459 18460 18461 18462 18463 18464 18465 18466 18467 18468 18469 18470 18471 18472 18473 18474 18475 18476 18477 18478 18479 18480 
+	}
+	local_supplies=0.0 
+}

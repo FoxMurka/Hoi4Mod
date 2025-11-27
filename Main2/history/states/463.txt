@@ -1,0 +1,35 @@
+
+state={
+	id=463
+	name="STATE_463"
+	manpower = 2698413
+	
+	state_category = metropolis
+	resources={
+		aluminium=1
+		chromium=7
+		oil=3
+		rubber=1
+		steel=2
+		tungsten=0
+	}
+
+	history={
+		
+		
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		
+	}
+
+	provinces={
+		13803 13804 13805 13806 13807 13808 13809 13810 13811 13812 13813 13814 13815 13816 13817 13818 13819 13820 13821 13822 13823 13824 13825 13826 13827 13828 13829 13830 13831 13832 13833 13834 13835 13836 13837 13838 13839 13840 
+	}
+	local_supplies=0.0 
+}
